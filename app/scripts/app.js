@@ -1,9 +1,9 @@
 (function(app) {
 	'use strict';
 
-	var todo = new Todo('[Untitled]');
+	var mustachedBatman = new mustachedBatman('[Untitled]');
 
-	function Todo(name){
+	function mustachedBatman(name){
 	  this.storage    = new app.Storage(name);
 	  this.model      = new app.Model(this.storage);
 	  this.view       = new app.View();

@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "ToDo",
-  "short_name": "ToDo",
-  "description": "",
+  "name": "mustached-batman",
+  "short_name": "mb",
+  "description": "Task Management / Productivity App",
   "version": "0.0.1",
   "permissions": ["storage"],
   "icons": {

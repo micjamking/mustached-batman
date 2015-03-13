@@ -1,24 +1,26 @@
 {
-  "name": "ToDo",
+  "name": "mustached-batman",
   "version": "0.0.1",
-  "description": "ToDo App",
+  "description": "Task Management / Productivity App",
   "main": "background.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:micjamking/todo.git"
+    "url": "git@github.com:micjamking/mustached-batman.git"
   },
   "keywords": [
-    "todo"
+    "todo",
+    "task management",
+    "productivity"
   ],
   "author": "Mike King",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/micjamking/todo/issues"
+    "url": "https://github.com/micjamking/mustached-batman/issues"
   },
-  "homepage": "https://github.com/micjamking/todo",
+  "homepage": "https://github.com/micjamking/mustached-batman",
   "devDependencies": {
     "gulp": "^3.8.11"
   }
