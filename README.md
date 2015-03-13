@@ -9,6 +9,7 @@
 - Learn new development tools
 - Write a client-side MVC framework
 - Deploy to an app store
+
 ### Secondary
 - Create a well-designed product
 - Help people get organized
@@ -22,6 +23,7 @@
 - Drag and drop to reorder
 - Share list via email
 - Create list from list items
+
 ### Secondary
 - Markdown support in notes
 - Groups (and/or) Labels (?)
