@@ -1,0 +1,25 @@
+{
+  "name": "ToDo",
+  "version": "0.0.1",
+  "description": "ToDo App",
+  "main": "background.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:micjamking/todo.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Mike King",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micjamking/todo/issues"
+  },
+  "homepage": "https://github.com/micjamking/todo",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}

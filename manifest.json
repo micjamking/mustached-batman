@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "ToDo",
+  "short_name": "ToDo",
+  "description": "",
+  "version": "0.0.1",
+  "permissions": ["storage"],
+  "icons": {
+    "16": "app/assets/images/icon_16.png",
+    "128": "app/assets/images/icon_128.png"
+  },
+  "app": {
+    "background": {
+      "scripts": ["app/scripts/background.js"]
+    }
+  },
+  "minimum_chrome_version": "38"
+}
