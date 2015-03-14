@@ -1,9 +1,9 @@
 (function(app) {
 	'use strict';
 
-	var mustachedBatman = new mustachedBatman('[Untitled]');
+	var mb = new MustachedBatman('[Untitled]');
 
-	function mustachedBatman(name){
+	function MustachedBatman(name){
 	  this.storage    = new app.Storage(name);
 	  this.model      = new app.Model(this.storage);
 	  this.view       = new app.View();

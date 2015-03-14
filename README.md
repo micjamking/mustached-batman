@@ -7,7 +7,9 @@
 - Learn how to build a "to-do" app
  - Learn how to persist data in the cloud
 - Learn new development tools
-- Write a client-side MVC framework
+ - Chrome Dev Editor
+ - NPM (as build tool)
+ - Write custom client-side MVC framework
 - Deploy to an app store
 
 ### Secondary
