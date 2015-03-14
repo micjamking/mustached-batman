@@ -18,11 +18,6 @@
   "engines": {
     "node": "~0.8 || ~0.10"
   },
-  "config": {
-    "jshint_app": "--reporter node_modules/jshint-stylish/stylish.js app/scripts/**.js",
-    "jshint_test": "--reporter node_modules/jshint-stylish/stylish.js test/spec/**.js",
-    "karma": "test/karma.conf.js"
-  },
   "devDependencies": {
     "autoprefixer": "^5.1.0",
     "jasmine-core": "^2.2.0",
@@ -31,6 +26,11 @@
     "karma-jasmine": "^0.3.5",
     "karma-phantomjs-launcher": "^0.1.4",
     "node-sass": "^3.0.0-pre"
+  },
+  "config": {
+    "jshint_app": "--reporter node_modules/jshint-stylish/stylish.js app/scripts/**.js",
+    "jshint_test": "--reporter node_modules/jshint-stylish/stylish.js test/spec/**.js",
+    "karma": "test/karma.conf.js"
   },
   "scripts": {
     "clean": "rm -rf dist/*",
